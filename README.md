@@ -5,16 +5,16 @@ Attendance system using face recognition is a procedure of recognizing students 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 
-bash
+```bash
 pip install tkinter
 pip install pip install tkinter
 pip install cv2,os
 pip install numpy
 pip install PIL 
 pip install pandas 
-
+```
 
 
 
